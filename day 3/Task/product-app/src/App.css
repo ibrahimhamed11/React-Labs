@@ -1,0 +1,10 @@
+.formcontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.formcontainer form {
+  width: 100%;
+}

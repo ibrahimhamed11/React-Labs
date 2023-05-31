@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.mq4": "mq4",
+        "mql4": "cpp"
+    }
+}

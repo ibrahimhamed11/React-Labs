@@ -1,0 +1,20 @@
+1- install redux toolkit and react-redux
+2- create redux folder 
+3- create Slices
+4- create actions -> and then export them useing slice.action
+5- reducer -> export rudcer useing slice.reducer
+6- store -> confgiurestore  -> combined reducer
+7- wrap app component in index.js with -> Provider -> and provider take store as attribute
+----------------------------------------------------------------------------------------------
+
+to read value from store in  component : 
+
+1- useSelector hook to read values and return state.
+
+to Update value in store from functional component : 
+
+dispatch = useDispatch();
+
+dispatch(actionName(newValue if is exits));
+
+

@@ -1,0 +1,7 @@
+1- npm install react-router-dom
+2- wrap with browserrouter all app  in inedx.js file make this wrap
+3- declare Routes every path has componont
+4- navaigation function =>  useNavigate()
+5- if want send useing useNavigate() => nav(path,{state:data})
+6- if want get data from useNavigate() =>useLocation() state :data
+7- get params useparams()
